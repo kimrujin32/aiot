@@ -1,0 +1,5 @@
+predictions[0]['detection_classes']	List	탐지된 객체의 클래스 번호
+predictions[0]['detection_names']	List	탐지된 객체의 클래스 이름
+predictions[0]['num_detections']	Number	탐지된 객체의 수
+predictions[0]['detection_boxes']	List<Number, Number, Number, Number>	탐지된 객체의 바운딩 박스 좌표 (x1, y1, x2, y2)
+predictions[0]['detection_scores']	List	탐지된 객체의 정확도 확률값
